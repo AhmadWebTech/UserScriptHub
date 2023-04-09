@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Script
 // @description  -
-// @version      0.0.2
+// @version      0.1.8
 // @author       AhmadWebTech
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=violentmonkey.github.io
 // @include      http*://*
