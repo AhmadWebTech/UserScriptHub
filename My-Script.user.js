@@ -6,7 +6,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=violentmonkey.github.io
 // @include      http*://*
 // @require      https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js
-// @updateURL    https://github.com/AhmadWebTech/UserScriptHub/raw/main/My-Script.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/AhmadWebTech/UserScriptHub@main/My-Script.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 window.addEventListener('load', () => {
